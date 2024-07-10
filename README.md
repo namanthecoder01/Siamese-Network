@@ -24,7 +24,7 @@ To clone this repository, use the following command:
 
 bash
 
-git clone https://github.com/parth1620/Person-Re-Id.git
+git clone https://github.com/namanthecoder01/Siamese-Network.git
 
 Usage
 
